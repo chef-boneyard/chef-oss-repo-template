@@ -9,6 +9,14 @@ One line description of the project.
 
 More information about the project
 
+# Versioning
+
+This project follows [semver](http://semver.org/) as closely as possible. The versioning for this project is X.Y.Z where:
+
+* X is a major release, which may not be fully compatible with prior major releases
+* Y is a minor release, which adds both new features and bug fixes
+* Z is a patch release, which adds just bug fixes
+
 # License
 
 |                      |                                          |
